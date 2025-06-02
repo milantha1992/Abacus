@@ -20,8 +20,6 @@ The **abacus** is one of the earliest known tools for **calculations**, used in 
 - 🔄 **Real-Time Bead Movement** (Drag and manipulate beads easily)  
 - 🎓 **Educational Mode:** Step-by-step guides for **learning abacus techniques**  
 - 🎮 **Fun Exercises & Challenges** to test skills  
-- 💾 **Save & Export Calculations**  
-- 📤 **Download Results as PNG, JPG, or PDF**  
 
 ---
 
@@ -49,26 +47,6 @@ Export calculations as **PNG, JPG, or PDF** with one click!
 | 🖥️ **Frontend** | ⚙️ **Backend** | 🗄️ **Database** | 🏗️ **Other Tools** |
 |---|---|---|---|
 | ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-%23000000.svg?&style=flat&logo=express&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=flat&logo=mongodb&logoColor=white) | ![Canvas](https://img.shields.io/badge/Canvas-%23FF5722.svg?&style=flat) ![jsPDF](https://img.shields.io/badge/jsPDF-%232A2A2A.svg?&style=flat&logo=javascript&logoColor=white) |
-
----
-
-## 📤 Export Options  
-
-- 🖼️ **PNG Export:** Save calculations as **high-resolution images**  
-- 📸 **JPG Export:** Download as a **compressed photo format**  
-- 📜 **PDF Export:** Generate a **formatted report** using `jsPDF`  
-
----
-
-## 💡 Roadmap  
-
-🔜 **Upcoming Features:**  
-- ⏳ **Timed Challenges** ⏱️ to test your speed  
-- 🎭 **Dark Mode** for better accessibility  
-- 🏆 **Leaderboard Support** for tracking best calculations  
-- 🌍 **Multi-language support** for global learners  
-
-Want to contribute? Submit **feature suggestions** or **pull requests**! 😊  
 
 ---
 
