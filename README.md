@@ -5,6 +5,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black)
 
+[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://bocaletto-luca.github.io/Abacus/)
+
 **Abacus Web App** is an **interactive** web application that simulates an **abacus**, the **ancient counting tool** used in **mathematics**. This digital version allows users to learn, practice, and understand **basic arithmetic operations** such as **addition**, **subtraction**, **multiplication**, and **division** using an **abacus interface**. 🎓  
 
 🔎 **What is an Abacus?**  
